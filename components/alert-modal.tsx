@@ -22,7 +22,8 @@ export default function AlertModal() {
   };
 
   const handleSubmit = () => {
-    window.location.href = "https://www.facebook.com/anh.lehong.73700";
+    window.location.href =
+      "https://www.facebook.com/profile.php?id=100033967455238";
   };
 
   return (
