@@ -59,6 +59,7 @@ export default function Home() {
           Đồng ý!
         </Button>
         <Button
+          onClick={onChange}
           className=" cursor-pointer"
           variant="destructive"
           onMouseOver={onChange}
